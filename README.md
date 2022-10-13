@@ -21,13 +21,13 @@ Faites pas les fourbes, un "dépôt" = "repository"
 
 > $ git branch -M main
 
-Aller se connecter sur github, dans Your repositories (en haut à droite)
+- Aller se connecter sur github, dans Your repositories (en haut à droite)
 
-Créer un nouveau repository
+- Créer un nouveau repository
 
-Lui donner un joli nom (note : il peut être modifié plus tard mais attention, il faudra changer l'url de dépôt distant sur le GIT local)
+- Lui donner un joli nom (note : il peut être modifié plus tard mais attention, il faudra changer l'url de dépôt distant sur le GIT local)
 
-Copier l'URL du dépôt distant
+- Copier l'URL du dépôt distant
 
 > $ git remote add origin [+coller l'URL du repository]
 
