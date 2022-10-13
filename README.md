@@ -12,13 +12,9 @@ Faites pas les fourbes, un "dépôt" = "repository"
 
 - Créer un repository (dépôt) sur GITHUB :
 > $ echo "#test" >> README.md
-
 > $ git init
-
 > $ git add README.md
-
 > $ git commit -m "[description du commit]"
-
 > $ git branch -M main
 
 - Aller se connecter sur github, dans Your repositories (en haut à droite)
@@ -30,7 +26,6 @@ Faites pas les fourbes, un "dépôt" = "repository"
 - Copier l'URL du dépôt distant
 
 > $ git remote add origin [+coller l'URL du repository]
-
 > $ git push  -u origin main 
 
 Changer le nom du dépôt distant
